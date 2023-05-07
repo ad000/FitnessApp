@@ -1,5 +1,5 @@
 //
-//  FitnessAppApp.swift
+//  FitnessApp.swift
 //  FitnessApp
 //
 //  Created by Archael dela Rosa on 5/4/23.
